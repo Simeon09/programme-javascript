@@ -91,7 +91,7 @@ alert ("welcome to my small calculator")
  division.innerHTML = share
  document.getElementById('identity').innerHTML= Name;
 
-
+ 
 
 
 
