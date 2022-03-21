@@ -76,7 +76,7 @@ alert ("welcome to my small calculator")
  Name = prompt ("Enter ur Name")
  totalbill = prompt("Enter ur total bill")
  tips  = prompt ("enter ur tips in percentage")
- divide = prompt ('enter the total number to share the money')
+ divide = prompt ('Number of friends')
 
   var bill = parseInt(totalbill);
   var tip = parseInt(tips);
